@@ -1,0 +1,6 @@
+cd W:\home\diplom
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/g-yar/diplom.git
+git push -u origin master
